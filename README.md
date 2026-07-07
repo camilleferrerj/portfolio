@@ -1,24 +1,32 @@
 # Camille Joy Ferrer – Portfolio Website
 
-A modern, minimalist one-page portfolio website showcasing the professional experience, marketing expertise, UI/UX design projects, and creative work of **Camille Joy Ferrer**.
+This is a polished one-page portfolio website for myself, designed to highlight my work as a marketing professional and UI/UX designer. The site presents a refined, modern image with a soft pastel aesthetic and a clean visual structure.
 
-## ✨ Features
+## ✨ What This Portfolio Shows
 
-- Modern minimalist UI
-- Responsive design (Desktop, Tablet & Mobile)
-- Pastel pink, blue, and purple theme
-- Hero section with custom typography
-- About section
-- Contact information
-- Skills & Expertise
-- Featured Projects carousel
-- UI/UX Design Showcase
-  - Website Design Demo
-  - Mobile App Design Demo
-- Work Experience Timeline
-- Education
-- References
-- Social Media Links
+The portfolio introduces myself as someone who combines:
+
+- Strategic marketing experience
+- Creative branding and storytelling
+- UI/UX design thinking
+- Social media and digital campaign work
+- Professional background in marketing and design-related projects
+
+It is built to help visitors quickly understand my expertise, experience, and creative style.
+
+## 🌐 Features
+
+- Modern minimalist one-page layout
+- Responsive design for desktop, tablet, and mobile
+- Soft pastel pink, blue, and purple theme
+- Hero section with a strong visual first impression
+- About section with personal and professional positioning
+- Contact details and social links
+- Skills and expertise highlights
+- Featured project gallery
+- UI/UX showcase with video demonstrations
+- Work experience timeline
+- Education and references
 
 ---
 
@@ -28,139 +36,46 @@ A modern, minimalist one-page portfolio website showcasing the professional expe
 - CSS3
 - Font Awesome
 - Google Fonts
-- Responsive Design
-- CSS Flexbox
-- CSS Grid
+- Responsive design techniques
+- Flexbox and Grid layouts
 
 ---
 
-## 📁 Folder Structure
+## 🎨 Design Style
 
-```
-portfolio/
-│
-├── index.html
-├── style.css
-│
-├── images/
-│   ├── 7.png
-│   ├── project1.jpg
-│   ├── project2.jpg
-│   └── video-thumbnail.jpg
-│
-├── videos/
-│   ├── 1.mp4
-│   └── 2.mp4
-│
-├── fonts/
-│   └── BrittanySignature.ttf
-│
-└── README.md
-```
+The website uses a soft and elegant pastel palette to create a calm, modern, and professional feeling.
+
+- Light pink
+- Light purple
+- Light blue
+- White glassy card surfaces
 
 ---
 
-## 🎨 Theme
+## 📱 Responsive Layout
 
-The website uses a soft pastel color palette to create a modern and elegant aesthetic.
+The portfolio is designed to look polished on:
 
-- 🌸 Light Pink
-- 💜 Light Purple
-- 💙 Light Blue
-- 🤍 White Glassmorphism Cards
-
-Primary Gradient
-
-```css
-linear-gradient(
-    135deg,
-    #ff84b5,
-    #a688ff,
-    #6fc8ff
-)
-```
-
----
-
-## ✒ Typography
-
-| Element        | Font               |
-| -------------- | ------------------ |
-| Hero Title     | Impact             |
-| Signature Name | Brittany Signature |
-| Body           | Inter              |
-| Icons          | Font Awesome       |
-
----
-
-## 📱 Responsive Design
-
-The website is fully responsive and optimized for:
-
-- Desktop
-- Laptop
-- Tablet
-- Mobile Devices
-
-Responsive features include:
-
-- Flexible layouts
-- Scalable typography
-- Responsive videos
-- Mobile navigation spacing
-- Portrait & landscape media support
+- Desktop screens
+- Laptops
+- Tablets
+- Mobile devices
 
 ---
 
 ## 🎥 UI/UX Showcase
 
-The portfolio includes two showcase videos.
+The site includes visual presentations for:
 
-### Website Design
+- Website design concepts
+- Mobile app design concepts
 
-Landscape presentation demonstrating website UI/UX projects.
-
-### Mobile App Design
-
-Portrait presentation demonstrating mobile application designs.
-
-Replace the demo videos by updating:
-
-```
-videos/2.mp4
-videos/1.mp4
-```
-
----
-
-## 🖼 Replacing Images
-
-Replace the profile image:
-
-```
-images/7.png
-```
-
-Replace project images inside the Featured Projects section.
+You can update these by replacing the relevant files in the videos folder.
 
 ---
 
 ## 📞 Contact Information
 
-Phone
-
-```
-tel:+639496766416
-```
-
-Email
-
-```
-mailto:camilleferrerj@gmail.com
-```
-
-Location
-
-```
-Metro Manila
-```
+- Phone: +63 949 676 6416
+- Email: camilleferrerj@gmail.com
+- Location: Metro Manila
